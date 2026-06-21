@@ -4,7 +4,7 @@ A **Streamlit-powered** travel analytics & recommendation platform that helps yo
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Clone / Download the project
 ```bash
@@ -32,7 +32,7 @@ The dataset (`travel_data.csv`) is **auto-generated** on first launch — no man
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Travel/
@@ -46,26 +46,26 @@ Travel/
 
 ---
 
-## ✨ Features
+##  Features
 
 | Feature | Details |
 |---|---|
-| 🗂️ Auto Dataset | 200+ rows of realistic Indian travel data |
-| 🔍 Smart Filters | Budget, Season, Trip Type, Crowd Level, Hotel Rating |
-| 🏆 Recommendations | Top destinations & hotels ranked by value |
-| 📊 Analytics | Plotly charts — cost, trends, ratings, crowd |
-| 💡 KPI Cards | Cheapest destination, avg cost, top hotel |
-| 🧹 Error Handling | Empty results, invalid filters, missing data |
+|  Auto Dataset | 200+ rows of realistic Indian travel data |
+|  Smart Filters | Budget, Season, Trip Type, Crowd Level, Hotel Rating |
+|  Recommendations | Top destinations & hotels ranked by value |
+|  Analytics | Plotly charts — cost, trends, ratings, crowd |
+|  KPI Cards | Cheapest destination, avg cost, top hotel |
+|  Error Handling | Empty results, invalid filters, missing data |
 
 ---
 
-## 🗺️ Destinations Included
+##  Destinations Included
 
 Goa, Ooty, Coorg, Meghalaya, Munnar, Pondicherry, Manali, Hampi, Gokarna, Darjeeling, Shimla, Jaipur, Rishikesh, Varanasi, Ladakh, Alleppey, Udaipur, Spiti Valley, Andaman, Mysore, Lakshadweep, Jodhpur, Nainital, Kodaikanal, Pushkar
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Python 3.9+**
 - **Streamlit** — UI framework
@@ -75,7 +75,7 @@ Goa, Ooty, Coorg, Meghalaya, Munnar, Pondicherry, Manali, Hampi, Gokarna, Darjee
 
 ---
 
-## 📌 Notes
+##  Notes
 
 - The dataset is regenerated only if `travel_data.csv` is missing.
 - All costs are in **Indian Rupees (₹)** per person per day.
