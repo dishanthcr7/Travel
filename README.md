@@ -36,12 +36,12 @@ The dataset (`travel_data.csv`) is **auto-generated** on first launch — no man
 
 ```
 Travel/
-│
-├── app.py                  # Main Streamlit application
-├── generate_dataset.py     # Synthetic dataset generator
-├── travel_data.csv         # Auto-generated dataset (created on first run)
-├── requirements.txt        # Python dependencies
-└── README.md               # This file
+
+app.py                  # Main Streamlit application
+generate_dataset.py     # Synthetic dataset generator
+travel_data.csv         # Auto-generated dataset (created on first run)
+requirements.txt        # Python dependencies
+README.md               # This file
 ```
 
 ---
