@@ -1,4 +1,4 @@
-# 🌏 Budget Travel Intelligence System
+# Budget Travel Intelligence System
 
 A **Streamlit-powered** travel analytics & recommendation platform that helps you discover budget-friendly Indian destinations and hotels — all from a rich, auto-generated synthetic dataset.
 
@@ -61,7 +61,7 @@ README.md               # This file
 
 ##  Destinations Included
 
-Goa, Ooty, Coorg, Meghalaya, Munnar, Pondicherry, Manali, Hampi, Gokarna, Darjeeling, Shimla, Jaipur, Rishikesh, Varanasi, Ladakh, Alleppey, Udaipur, Spiti Valley, Andaman, Mysore, Lakshadweep, Jodhpur, Nainital, Kodaikanal, Pushkar
+Goa, Ooty, Coorg, Meghalaya, Munnar, Pondicherry, Manali, Hampi, Gokarna, Darjeeling, Shimla, Jaipur, Rishikesh, Varanasi, Ladakh, Alleppey, Udaipur, Spiti Valley, Andaman, Mysore, Lakshadweep, Jodhpur, Nainital, Kodaikanal, Pushkar,Nagaland,Mizoram
 
 ---
 
