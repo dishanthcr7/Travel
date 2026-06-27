@@ -53,8 +53,8 @@ README.md               # This file
 |  Auto Dataset | 200+ rows of realistic Indian travel data |
 |  Smart Filters | Budget, Season, Trip Type, Crowd Level, Hotel Rating |
 |  Recommendations | Top destinations & hotels ranked by value |
-|  Analytics | Plotly charts — cost, trends, ratings, crowd |
-|  KPI Cards | Cheapest destination, avg cost, top hotel |
+|  Analytics | Plotly charts — cost, trends, ratings, crowd level |
+|  KPI Cards | Cheapest destination, avg cost, top hotel according to location|
 |  Error Handling | Empty results, invalid filters, missing data |
 
 ---
