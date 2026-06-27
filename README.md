@@ -11,7 +11,7 @@ A **Streamlit-powered** travel analytics & recommendation platform that helps yo
 cd d:\Travel
 ```
 
-### 2. Create a virtual environment (recommended)
+### 2. Create a virtual environment
 ```bash
 python -m venv venv
 venv\Scripts\activate      # Windows
